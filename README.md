@@ -3,7 +3,7 @@
 
 *Note: This is for educational purposes only. Do not use it for any commercial or illegal purposes. I will not be responsible for any unauthorized usage of this software.*
 
-![img](https://github.com/Luukus/SWBF2-Classic-Hack/blob/440280259a330621f5c1628a4a09a0837ca655fe/img/in-game%20menu.png)
+![img](https://github.com/Luukus/SWBF2-Classic-Hack/blob/ab49908afa953252c397649c67184e043de73b4f/img/in-game%20menu.png)
 
 ## Features
 - Aimbot
