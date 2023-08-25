@@ -54,6 +54,8 @@ nunit-*.xml
 [Rr]eleasePS/
 dlldata.c
 
+build
+
 # Benchmark Results
 BenchmarkDotNet.Artifacts/
 
@@ -301,7 +303,7 @@ node_modules/
 *.dsw
 *.dsp
 
-# Visual Studio 6 technical files 
+# Visual Studio 6 technical files
 *.ncb
 *.aps
 
