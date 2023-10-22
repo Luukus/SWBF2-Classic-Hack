@@ -15,6 +15,9 @@
 
 *If there's interest I'll continue to add and build out more features, so please star to show it!*
 
+## Known Issues
+- You must select the first profile in the profile selection menu. If you dont the hacks will not active. This a known bug that I will fix in the future.
+
 ## Run
 You will need to either download the built DLL from UnknownCheats ([at this link](https://www.unknowncheats.me/forum/other-fps-games/598340-star-wars-battlefront-2-classic-2005-esp-aimbot-internal.html)) or build it yourself. Build details will be below.
 After getting your hands on the DLL, you will need to run SWBF2 from Steam and then use an injector (like GuidedHacking's Injector) to inject it into your game. You can inject it 
