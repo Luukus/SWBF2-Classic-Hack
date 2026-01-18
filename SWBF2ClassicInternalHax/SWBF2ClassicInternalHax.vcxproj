@@ -74,13 +74,13 @@
     <LinkIncremental>true</LinkIncremental>
     <OutDir>$(SolutionDir)build\</OutDir>
     <IntDir>$(Configuration)\intermediates</IntDir>
-    <IncludePath>C:\Users\jmrap\source\repos\SWBF2ClassicInternalHax\SWBF2ClassicInternalHax\external;$(IncludePath)</IncludePath>
+    <IncludePath>SWBF2ClassicInternalHax\external;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
     <OutDir>$(SolutionDir)build\</OutDir>
     <IntDir>$(Configuration)\intermediates</IntDir>
-    <IncludePath>C:\Users\jmrap\source\repos\SWBF2ClassicInternalHax\SWBF2ClassicInternalHax\external;$(IncludePath)</IncludePath>
+    <IncludePath>SWBF2ClassicInternalHax\external;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
